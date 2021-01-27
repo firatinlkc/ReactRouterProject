@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import logo from '../../img/logo.png';
+
 
 function About(props) {
   return (
@@ -32,10 +32,6 @@ function About(props) {
             <p>
             Redux, uygulama durumunu yönetmek için açık kaynaklı bir JavaScript kütüphanesidir. Kullanıcı arayüzleri oluşturmak için en yaygın olarak React veya Angular gibi kütüphanelerle kullanılır. Facebook'un Flux mimarisine benzer şekilde, Dan Abramov ve Andrew Clark tarafından yaratıldı.
             </p>
-            <img src={logo} alt=""/>
-            
-            
-            
           </Col>
           <Col sm={6} className="mt-4 text-center">
             <img src="https://picsum.photos/id/5/400/400" />
