@@ -1,0 +1,17 @@
+.navbarBorder{
+  border-bottom: 5px solid #4DAD5B;
+  transition: all 0.7s;
+  color: white !important;  
+}
+.navbarHover:hover{
+  border: 1px solid #4DAD5B;
+  border-radius: 7px;
+  background-color: #4DAD5B;
+  color: white !important;
+}
+.hoverBrand{
+  color: white !important;
+}
+.hoverBrand:hover {
+  text-decoration: none;
+}

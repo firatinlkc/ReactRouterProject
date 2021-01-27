@@ -1,0 +1,15 @@
+.footerStyle{
+  border-top: 5px solid #4DAD5B;
+  background-color: #343A40;
+  margin-top: 70px;
+  
+}
+.footerIcon{
+  font-size: 40px;
+  color: white;
+  margin-right: 30px;
+  transition: all 0.7s;
+}
+.footerIcon:hover{
+  color: #4DAD5B !important;
+}

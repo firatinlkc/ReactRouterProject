@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "imgsrc": "https://bit.ly/3onxGqk",
+      "title": "HTML 5",
+      "description": "HTML işaretleme dilinin beşinci sürümüdür.",
+      "detailimg": "https://bit.ly/3cfYnuM",
+      "longDescription": "HTML5, İnternet'in çekirdek teknolojilerinden HTML işaretleme standardının beşinci sürümüdür. Internet Explorer, Mozilla Firefox ve Opera tarayıcılarının güncel sürümleri tarafından kısmen desteklenmektedir. Kısaca H5 Google Chrome ve Safari tarayıcılarının güncel sürümleri üzerinde deneme aşamasında da olsa çok daha iyi bir şekilde çalışmaktadır. Günümüzde kullanılan HTML 4.1 sürümü, CSS desteğiyle ne kadar düzenli ve sağlam bir yapıda kodlanırsa kodlansın, yine de fazladan yazılan kodların fonksiyonelliğini bozduğu bilinmektedir. Bu yüzden HTML5, bu ihtiyaçları karşılamak adına geliştirilmeye başlanmıştır. Video paylaşım sitesi YouTube, deneme aşamasında HTML5'i kullanıcılarına sunmaktadır.",
+      "isActive": true
+    },
+
+    {
+      "id": 2,
+      "imgsrc": "https://bit.ly/3cfbkoT",
+      "title": "CSS 3",
+      "description": "Metin ve format biçimlendirme alanında fazladan olanaklar sunan bir işaretleme dilidir.",
+      "detailimg": "https://bit.ly/36diQMT",
+      "longDescription": "Cascading Style Sheets (Basamaklı Stil Şablonları ya da Basamaklı Biçim Sayfaları, bilinen kısa adıyla CSS), HTML'e ek olarak metin ve format biçimlendirme alanında fazladan olanaklar sunan bir işaretleme dilidir. İnternet sayfaları için genelgeçer şablonlar hazırlama olanağı verdiği gibi, bağımsız olarak harflerin stilini, yani renk, yazı tipi, büyüklük gibi özelliklerini değiştirmek için de kullanılabilir. Bu tekniğin en önemli özelliği kullanımındaki esnekliktir. Bir Web sayfası içerisinde birbiriyle uyumlu birkaç renk ve birkaç yazı tip kullanılır ve bunları her sayfada ayrı ayrı tekrar belirtmek yerine CSS yardımıyla bir sefer tanımlayıp bütün Web sayfalarında ortak olarak kullanılabilir. Böylece sayfaların hafızadaki boyutu epey küçüldüğü gibi güncelleme yapmak da kolaylaşır.",
+      "isActive": true
+    },
+
+    {
+      "id": 3,
+      "imgsrc": "https://bit.ly/2M88zuN",
+      "title": "JavaScript",
+      "description": "JavaScript, yaygın olarak web tarayıcılarında kullanılmakta olan dinamik bir programlama dilidir.",
+      "detailimg": "https://bit.ly/3ppdZQm",
+      "longDescription": "JavaScript, yaygın olarak web tarayıcılarında kullanılmakta olan dinamik bir programlama dilidir. JavaScript ile yazılan istemci tarafı betikler sayesinde tarayıcının kullanıcıyla etkileşimde bulunması, tarayıcının kontrol edilmesi, asenkron bir şekilde sunucu ile iletişime geçilmesi ve web sayfası içeriğinin değiştirilmesi gibi işlevler sağlanır. JavaScript, Node.js gibi platformlar sayesinde sunucu tarafında da yaygın olarak kullanılmaktadır. JavaScript prototip-tabanlı, dinamik türlere ve birinci-sınıf fonksiyonlara sahip bir betik dilidir. Nesne yönelimli, imperatif ve fonksiyonel programlama prensiplerine sahiptir.",
+      "isActive": true
+    },
+
+    {
+      "id": 4,
+      "imgsrc": "https://bit.ly/3abWhK1",
+      "title": "ReactJS",
+      "description": "Kullanıcı arayüzleri geliştirebileceğiniz bir JavaScript kütüphanesidir.",
+      "detailimg": "https://bit.ly/3ceHVLf",
+      "longDescription": "React, interaktif kullanıcı arayüzü geliştirmeyi zahmetsiz hale getirir. Siz uygulamanızdaki her durum için basit sayfalar tasarlayın. React, veriniz değiştiğinde sadece doğru bileşenleri verimli bir şekilde güncellesin ve oluştursun. Bildirimsel sayfalar, kodunuzu daha öngörülebilir ve hata ayıklaması daha kolay hale getirir.",
+      "isActive": true
+    }
+  
+  ]
+}
